@@ -12,7 +12,7 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
-These sites, Github and BitBucket, showcase the repositories of WhileyCompiler and Personalised Correlation respectively. These sites facilitate the use of repositories to store code and documentation for various development projects. They are platforms to service open source projects.
+These sites, Github and BitBucket, showcase the repositories of WhileyCompiler and Personalised Correlation respectively. These sites facilitate the use of repositories to store code and documentation for various development projects. They are platforms to service open source projects. Github may be better in uses of small group development projects, whereas BitBucket may be more effective in more large scale projects.
 
   * Who made the last commit to repository A?
 Matthew Roberts made the last commit to repository A on the 18-08-2022
@@ -27,7 +27,7 @@ The first commit was made by DavePearce on June 25 2010. The latest commit to re
 I think both repositories A and B are inactive at the moment. The last commit of repo A was in August of 2022, and may have been the completion of the project. Repository B also had its last commit in August 2022 however I believe will be active again soon as their last commit is a preparation for the next release of the WhileyCompiler.
 
   * 🤔 Which file in each project has had the most activity?
-Assuming from the file size that that has the most activity, 'docker_dev.sh' in Repo A has the most activity, as the largest file size of the project at 186 B.
+In Repo B, I believe the test files are one of the more recent files with the most activity, with over 999 test cases created last year. 'app.py' in Repo A may have the most activity due to its more recent commits to the project.
 
 # Task 2
 
