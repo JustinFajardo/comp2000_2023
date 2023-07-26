@@ -12,7 +12,7 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
-These sites, Github and BitBucket, showcase the repositories of WhileyCompiler and Personalised Correlation respectively. These sites facilitate the use of repositories to store code and documentation for various development projects. They are platforms to service open source projects. Github may be better in uses of small group development projects, whereas BitBucket may be more effective in more large scale projects.
+These sites, Github and BitBucket, showcase the repositories of WhileyCompiler and Personalised Correlation respectively. These sites facilitate the use of repositories to store code and documentation for various development projects. They are platforms to service open source projects. Github may be a better host to open source projects due to its vast extensibility that enables devleopers to effectively set up and develop their project(s).
 
   * Who made the last commit to repository A?
 Matthew Roberts made the last commit to repository A on the 18-08-2022
