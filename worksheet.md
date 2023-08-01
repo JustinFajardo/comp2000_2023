@@ -36,7 +36,7 @@ The repository you just cloned is a VSCode project, so lets work with it.  It cu
 You will find "Run" and "Debug" commands over the `main` method.  Try them out.  You can also trigger them with `F5` for "Debug" and `Ctrl-F5` for "Run"
 
 Modify the application so that instead it prints
-
+Commiting And Push Test!
 ~~~~~
 Red vs. Blue
 ~~~~~
